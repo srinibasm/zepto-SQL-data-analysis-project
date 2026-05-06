@@ -109,7 +109,7 @@ Measured total inventory weight per product category
 🛠️ How to Use This Project
 Clone the repository
 
-git clone https://github.com/amlanmohanty/zepto-SQL-data-analysis-project.git
+git clone https://github.com/srinibasm/zepto-SQL-data-analysis-project.git
 cd zepto-SQL-data-analysis-project
 Open zepto_SQL_data_analysis.sql
 
@@ -135,4 +135,4 @@ Follow along with the YouTube video for full walkthrough. 👨‍💼
 MIT — feel free to fork, star, and use in your portfolio.
 
 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty — a Data Analyst & Content Creator. I break down complex data topics into simple, practical content that actually helps you land a job.
+Hey, I’m Srinibas Mohanty — a Data Analyst & Content Creator. I break down complex data topics into simple, practical content that actually helps you land a job.
