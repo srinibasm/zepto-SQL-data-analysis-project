@@ -25,6 +25,14 @@ Each row represents a unique SKU (Stock Keeping Unit) for a product. Duplicate p
 🧾 Columns:
 
 sku_id: Unique identifier for each product entry (Synthetic Primary Key)
+### 📋 Sample Dataset (Preview)
+
+| Category | Name | MRP (₹) | Discount % | Quantity | Price (₹) | Weight (g) | Stock |
+|----------|------|---------|------------|----------|-----------|------------|--------|
+| Fruits & Vegetables | Onion | 25 | 16 | 3 | 21 | 1000 | FALSE |
+| Fruits & Vegetables | Tomato Hybrid | 42 | 16 | 3 | 35 | 1000 | FALSE |
+| Fruits & Vegetables | Tender Coconut | 51 | 15 | 3 | 43 | 58 | FALSE |
+| Fruits & Vegetables | Coriander Leaves | 20 | 15 | 3 | 17 | 100 | FALSE |
 
 name: Product name as it appears on the app
 
